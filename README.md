@@ -75,3 +75,9 @@ Implementing user roles to differentiate between admin and customer functionalit
 Enhancing the UI/UX with more interactive features like product zoom and wishlist.
 
 Integrating email notifications for order confirmations.
+
+
+![Screenshot 2024-08-12 203212](https://github.com/user-attachments/assets/32e32daa-c330-46fd-8be8-653d7059bed1)
+![Screenshot 2024-08-12 203302](https://github.com/user-attachments/assets/faca993b-375a-4539-854c-2619c4451e94)
+![Screenshot 2024-08-12 203327](https://github.com/user-attachments/assets/77f6394d-f917-46c7-9523-99072be76b25)
+![Screenshot 2024-08-12 203350](https://github.com/user-attachments/assets/4d586fb7-79cd-4f95-90b8-ab463196984b)
