@@ -1,11 +1,11 @@
 
 # Bag-Shop-Ecommerse-project
 
-Overview:
+# Overview:
 
 This project is a fully functional e-commerce web application designed for selling bags. The primary purpose of developing this application was to gain hands-on experience with modern web development technologies, including EJS, Tailwind CSS, Node.js, Express, and MongoDB. The platform allows users to browse products, manage their shopping cart, while administrators can manage the product catalog through a dedicated admin panel.
 
-Features
+# Features
 
 User Authentication
 
@@ -33,7 +33,7 @@ Admins can add new products by uploading images, setting prices, and providing d
 
 Customization options are available for setting the background color, panel color, and text color of the product display.
 
-Technology Stack
+# Technology Stack
 
 Frontend:
 
@@ -51,7 +51,7 @@ Database:
 
 MongoDB: A NoSQL database used to store user data, product information, and order details.
 
-Learning Outcomes
+# Learning Outcomes
 
 This project was a great opportunity to:
 
@@ -64,7 +64,7 @@ Work with MongoDB for data storage and learn about CRUD operations.
 Learn how to implement authentication and authorization in a web application.
 
 
-Future Enhancements
+# Future Enhancements
 
 Some potential improvements for the project could include:
 
